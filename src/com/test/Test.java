@@ -11,8 +11,6 @@ public class Test {
         // TODO Auto-generated method stub
         String str = "abc";
         System.out.println("..........."+str);
-        System.out.println("..........."+str);
-        System.out.println("..........."+str);
     }
 
 }
