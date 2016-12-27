@@ -3,8 +3,15 @@ package com.branchtest;
 public class BranchTest {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
+        sayHello();
+    }
+    
+    public static void sayHello(){
+        System.out.println("Hello : I am master");
+    }
+    
+    public  void sayHello(String str){
+        System.out.println("master");
     }
 
 }
